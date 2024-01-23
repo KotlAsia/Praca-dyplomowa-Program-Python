@@ -1,0 +1,34 @@
+Raport z dnia 23-01-2024 15:50:33
+
+Wyp³ata: 3000 z³
+Oszczêdnoœci d³ugoterminowe: 90.00 z³
+Poduszka bezpieczeñstwa: 810.00 z³
+
+Wyp³ata: 4000 z³
+Oszczêdnoœci d³ugoterminowe: 120.00 z³
+Poduszka bezpieczeñstwa: 1080.00 z³
+
+Wyp³ata: 5000 z³
+Oszczêdnoœci d³ugoterminowe: 150.00 z³
+Poduszka bezpieczeñstwa: 1350.00 z³
+
+Wyp³ata: 6000 z³
+Oszczêdnoœci d³ugoterminowe: 180.00 z³
+Poduszka bezpieczeñstwa: 1620.00 z³
+
+Wyp³ata: 7800 z³
+Oszczêdnoœci d³ugoterminowe: 234.00 z³
+Poduszka bezpieczeñstwa: 2106.00 z³
+
+Wyp³ata: 8960 z³
+Oszczêdnoœci d³ugoterminowe: 268.80 z³
+Poduszka bezpieczeñstwa: 2419.20 z³
+
+Wyp³ata: 11330 z³
+Oszczêdnoœci d³ugoterminowe: 339.90 z³
+Poduszka bezpieczeñstwa: 3059.10 z³
+
+Wyp³ata: 12553 z³
+Oszczêdnoœci d³ugoterminowe: 376.59 z³
+Poduszka bezpieczeñstwa: 3389.31 z³
+
